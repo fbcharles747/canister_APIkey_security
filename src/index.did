@@ -1,0 +1,6 @@
+service: () -> {
+    HasSession: (text) -> (bool) query;
+    SetSessionLength: (float64) -> ();
+    SignIn: (text, text) -> (text);
+    SignUp: (text, text) -> (text);
+}
