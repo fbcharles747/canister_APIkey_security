@@ -4,7 +4,7 @@
     - [introduction](#introduction)
     - [API security](#api-security)
     - [implementation of canister architecture](#implementation-of-canister-architecture)
-  - [Canister API](#canister-api)
+  - [API](#canister-api)
   - [Original README from dfx](#original-readme-from-dfx)
   
 
