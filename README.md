@@ -4,7 +4,7 @@
     - [introduction](#introduction)
     - [API security](#api-security)
     - [implementation of canister architecture](#implementation-of-canister-architecture)
-  - [API](#canister-api)
+  - [API](#api)
   - [Original README from dfx](#original-readme-from-dfx)
   
 
@@ -25,7 +25,7 @@ Given that `azle` library lack of sophisticated data validation logic, "Canister
 
 [<< back to summary](#summary)
 
-## Canister API
+## API
 
 The following table shows the API of this canister unit. 
 Sadly, we will not have access to UI on GitHub codescpace. To interact with this canister, we have to use bash environment with `dfx` installed. here is an example interacting with `SignUp`.
